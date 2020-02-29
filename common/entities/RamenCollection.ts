@@ -12,6 +12,18 @@ class RamenCollection {
     });
   }
 
+  sortList(ramens: Ramen[]) {
+    return ramens.sort(function (a,b) {
+      if (a.brand > b.brand) {
+        return 1;
+      }
+      if (b.brand > a.brand) {
+        return -1;
+      }
+      return 0;
+    })
+  }
+
   showList(searchText?: string, filters?: any) {
     if (!Array.isArray(this.ramens)) {
       return null;
@@ -30,7 +42,7 @@ class RamenCollection {
       });
     }
 
-    return ramens;
+    return this.sortList(ramens);
   }
 }
 
