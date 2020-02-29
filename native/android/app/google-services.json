@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737370212499",
+    "firebase_url": "https://easysplit-95b69.firebaseio.com",
+    "project_id": "easysplit-95b69",
+    "storage_bucket": "easysplit-95b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737370212499:android:deae600d9f88d7e8ada566",
+        "android_client_info": {
+          "package_name": "com.nativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737370212499-mb5soun0f4ph5j8s3ipe7uaan4d7hicq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativeapp",
+            "certificate_hash": "436aa54326ae1091310f7d82342a9b35a9ed29a5"
+          }
+        },
+        {
+          "client_id": "737370212499-qeat59lklnl0i8bnfcqk1b2s80j22v6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB2LETYQ5D3hZWo9WsISCF89OxJxFaYHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737370212499-qeat59lklnl0i8bnfcqk1b2s80j22v6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
