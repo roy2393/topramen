@@ -18,7 +18,7 @@
     "graphql": "14.5.4",
     "tr-common": "file:../common",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-config": "0.11.7",
     "react-native-easy-toast": "1.2.0",
     "react-native-firebase": "5.5.6",
